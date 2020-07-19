@@ -1,0 +1,12 @@
+C:\Users\Lenovo-16\AppData\Local\Temporary Projects\1-1\bin\Debug\1-1.exe.config
+D:\สุภาพร สายเงิน\1-1\1-1\bin\Debug\1-1.exe.config
+D:\สุภาพร สายเงิน\1-1\1-1\bin\Debug\1-1.exe
+D:\สุภาพร สายเงิน\1-1\1-1\bin\Debug\1-1.pdb
+D:\สุภาพร สายเงิน\1-1\1-1\bin\Debug\1-1.xml
+D:\สุภาพร สายเงิน\1-1\1-1\obj\Debug\1-1.vbprojResolveAssemblyReference.cache
+D:\สุภาพร สายเงิน\1-1\1-1\obj\Debug\_1_1.Form1.resources
+D:\สุภาพร สายเงิน\1-1\1-1\obj\Debug\_1_1.Resources.resources
+D:\สุภาพร สายเงิน\1-1\1-1\obj\Debug\1-1.vbproj.GenerateResource.Cache
+D:\สุภาพร สายเงิน\1-1\1-1\obj\Debug\1-1.exe
+D:\สุภาพร สายเงิน\1-1\1-1\obj\Debug\1-1.xml
+D:\สุภาพร สายเงิน\1-1\1-1\obj\Debug\1-1.pdb

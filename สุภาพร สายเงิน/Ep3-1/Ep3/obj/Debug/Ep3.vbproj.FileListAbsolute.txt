@@ -1,0 +1,10 @@
+D:\สุภาพร สายเงิน\Ep3\Ep3\bin\Debug\Ep3.exe.config
+D:\สุภาพร สายเงิน\Ep3\Ep3\bin\Debug\Ep3.exe
+D:\สุภาพร สายเงิน\Ep3\Ep3\bin\Debug\Ep3.pdb
+D:\สุภาพร สายเงิน\Ep3\Ep3\bin\Debug\Ep3.xml
+D:\สุภาพร สายเงิน\Ep3\Ep3\obj\Debug\WindowsApplication1.Form1.resources
+D:\สุภาพร สายเงิน\Ep3\Ep3\obj\Debug\WindowsApplication1.Resources.resources
+D:\สุภาพร สายเงิน\Ep3\Ep3\obj\Debug\Ep3.vbproj.GenerateResource.Cache
+D:\สุภาพร สายเงิน\Ep3\Ep3\obj\Debug\Ep3.exe
+D:\สุภาพร สายเงิน\Ep3\Ep3\obj\Debug\Ep3.xml
+D:\สุภาพร สายเงิน\Ep3\Ep3\obj\Debug\Ep3.pdb

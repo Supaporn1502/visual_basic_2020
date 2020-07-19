@@ -1,0 +1,11 @@
+C:\Users\Lenovo-16\AppData\Local\Temporary Projects\1-2\bin\Debug\1-2.exe.config
+D:\สุภาพร สายเงิน\1-2\1-2\bin\Debug\1-2.exe.config
+D:\สุภาพร สายเงิน\1-2\1-2\bin\Debug\1-2.exe
+D:\สุภาพร สายเงิน\1-2\1-2\bin\Debug\1-2.pdb
+D:\สุภาพร สายเงิน\1-2\1-2\bin\Debug\1-2.xml
+D:\สุภาพร สายเงิน\1-2\1-2\obj\Debug\_1_2.Form1.resources
+D:\สุภาพร สายเงิน\1-2\1-2\obj\Debug\_1_2.Resources.resources
+D:\สุภาพร สายเงิน\1-2\1-2\obj\Debug\1-2.vbproj.GenerateResource.Cache
+D:\สุภาพร สายเงิน\1-2\1-2\obj\Debug\1-2.exe
+D:\สุภาพร สายเงิน\1-2\1-2\obj\Debug\1-2.xml
+D:\สุภาพร สายเงิน\1-2\1-2\obj\Debug\1-2.pdb
